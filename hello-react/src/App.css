@@ -1,0 +1,36 @@
+
+.App {
+height: 100%;
+display: flex;
+flex-wrap: wrap;
+
+}
+
+header {
+  background-color: pink;
+  width: 100vw;
+  height: 2.5vh;
+
+}
+
+sidebar {
+  background-color: rgb(148, 255, 148);
+  width: 30vw;
+  height: 95vh;
+
+
+  
+}
+
+main {
+  background-color: white;
+  width: 70vw;
+  height: 95vh;
+}
+
+footer {
+  background-color: pink;
+  width: 100vw;
+  height: 2.5vh;
+
+}
